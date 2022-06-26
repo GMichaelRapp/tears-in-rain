@@ -1,3 +1,12 @@
+---
+
+layout: default
+title: The Fundamentals
+nav_order: 1
+
+---
+
+
 ## The Fundamentals
 ### What Are Roleplaying Games?
 If you’re new to roleplaying games, this could be a pretty daunting concept to understand. Don’t worry, though. Roleplaying games are, at their very heart, easy to understand, at least conceptually speaking. Roleplaying games are games in which a group of players share a collective narrative, with plenty of challenges, character development, and exciting, pulse-pounding action. These collective narratives are guided by the Referee (REF), who interprets dice rolls, applies rules, and uses the inner storytelling genius we all possess toward specific storytelling milestones, but the REF **is not** God. Instead, the other players should assist the REF in creating an exciting, enriching, and worthwhile gaming experience. Milestones for gameplay might include simple tasks consuming only a few moments in game play or complicated ones that take several game sessions to tackle.
