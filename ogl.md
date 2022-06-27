@@ -28,3 +28,9 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 15. COPYRIGHT NOTICE
 - Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 - Tears in Rain, v.1.0a, Copyright 2022, G. Michael Rapp (Free Radicals Press). 
+
+
+---
+
+{% include footer.html %}
+
