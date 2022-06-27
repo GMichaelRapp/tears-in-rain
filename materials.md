@@ -6,7 +6,7 @@ nav_order: 3
 
 ---
 
-## Required Materials
+## 3. Required Materials
 To play **Tears In Rain**, you will need a few items, all of which can be found at home and/or can be purchased from your favorite game shop, online retailer, or Big Box store.
 - Loose leaf paper or 5x8-inch notecards
 - Pens, pencils, and highlighters
