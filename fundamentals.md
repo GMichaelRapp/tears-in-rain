@@ -40,3 +40,7 @@ Race has been a big part of the legacy of role-playing. In a game like **Tears I
 **Tears In Rain** is the brainchild of the **Open Gaming Movement** within the tabletop roleplaying games industry. Fate, Fudge, D20-OGL, and other open gaming systems helped make **Tears In Rain** possible. While **Tears in Rain** deals with (strictly speaking) a hard sci-fi-flavored space opera roleplaying setting. Genre-agnostic systems, such as Fate, Fudge, and even GURPS, must take on an approach that appeases a much larger gaming constituency than (say) **Tears In Rain**. This is a game that isn’t all things to all people. Instead, it offers very genre- and setting-specific rules and experiences. **Tears In Rain** is not for everyone—and that’s okay. Before you is a labor of love and obsession. It isn’t perfect, and that’s what makes it so exciting.
 
 > **Also, Remember This, Folks:** When dealing with any tabletop roleplaying game product, the Referee and her fellow players are the final arbiters as to what should happen in-game. In other words, this is merely a rulebook and not some sacred text to be held up high and venerated for what is written on its pages. Feel free to tweak, bend, break, and rewrite what you don’t like, what doesn’t work, and/or what doesn’t flow with your current understandings of your gaming universe.
+
+---
+
+{% include footer.html %}
