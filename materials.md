@@ -18,3 +18,7 @@ To play **Tears In Rain**, you will need a few items, all of which can be found 
 - A place to play (e.g., Kitchen Table, Dedicated Game Room, or even Virtual Tabletop Space)
 - Time to play (120+ minutes minimum)
 - Snacks and drinks for all!
+
+---
+
+{% include footer.html %}
