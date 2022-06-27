@@ -14,12 +14,12 @@ Amidst the planets, moons, asteroids, and comets humans now call home, humanity 
 
 ---
 
-#### Warning:
+### Warning:
 This is a Work-In-Progress, meaning things are being added and taken away daily. To keep track of changes, please use Github's Watch tool.
 
 ---
 
-
+### Updates
 This Github project is a 3d6 OSR-inspired roleplaying game. If you want to support this project's development, as a playtester, designer, or artist, please reach out to me at **gmichaelrapp@bitrot.xyz**.
 
 
