@@ -14,7 +14,7 @@ To make best of this ruleset, you will want to familiarize yourselves with sever
 
 **Alignment:** This is on how one interacts with the larger macro- and (in some cases) the micro-factions of the Known Universe. Alignment is always in flux, and those who refuse to pay attention to what factions do, notice, and respond to will surely find themselves in serious trouble. 
 
-**Ancestry: **Who are your people? Where do they come from? Why do they matter?
+**Ancestry:** Who are your people? Where do they come from? Why do they matter?
 
 **Attribute:** One of five (5) baseline character traits—Brawn (BRN), Agility (AGL), Stamina (STA), Intellect (INT), AND Moxie (MOX). 
 
