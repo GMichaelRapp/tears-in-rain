@@ -18,7 +18,7 @@ OSR stands for old-school revival (which is what we mean by OSR in this chapter;
 
 > The more of the following a campaign has, the more old school it is: high lethality, an open world, a lack of pre-written plot, an emphasis on creative problem solving, an exploration-centered reward system (usually XP for treasure), a disregard for ‘encounter balance’, and the use of random tables to generate world elements that surprise both players and referees. Also, a strong do-it-yourself attitude and willingness to share your work and use the creativity of others in your game.
 
-### 4.2 Let’s explicate or unpack the passage above.
+### 4.2 Explicating the Passage Above
 
 **Lethality.** High lethality, or the possibility of death, is an always present force within an OSR-inspired game such as **Tears In Rain**. Death is everywhere, and players must out wit death—and that’s no easy feat either. The propensity toward high lethality forces players to creatively solve their problems without resorting to violence that would either kill them or leave them seriously injured. High lethality also pushes characters away from the infamous murder hobo cliché of overly powerful characters enacting their violence on a world that is helpless to stop them. Players might try to be murder hobos here, but they won’t make it far. If they do, the bards will sing their songs for generations to come.
 
