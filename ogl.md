@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-OPEN GAME LICENSE Version 1.0a
+## OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
@@ -27,7 +27,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 15. COPYRIGHT NOTICE
 - Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
-- Tears in Rain, v.1.0a, Copyright 2022, G. Michael Rapp (Free Radicals Press). 
+- **Tears in Rain**, v.1.0a, Copyright 2022, G. Michael Rapp (Free Radicals Press). 
 
 
 ---
