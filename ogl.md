@@ -29,6 +29,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 - Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 - **Tears in Rain**, v.1.0a, Copyright 2022, G. Michael Rapp (Free Radicals Press). 
 
+**OPEN GAME CONTENT NOTICE:** All game mechanics and tables are considered open game content. However, setting-specific content, such as maps, characters, etc., is not considered open game content. If you have any questions concerning the open gaming content, please e-mail G. Michael Rapp (Free Radicals Press) at **gmichaelrapp@bitrot.xyz**.
 
 ---
 
