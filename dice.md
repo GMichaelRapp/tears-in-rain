@@ -31,3 +31,12 @@ This die, comprised of two ten-sided dice, producing results ranging from zero (
 There are often two kinds of ten-sided dice sold at game shops, online retailers, and elsewhere. A standard ten-sided die has results between 01 and 10 (which is represented as a zero (0) on a single, standard d10). It has become increasingly common in game shop dice sets to see a d10 that has 1, 2, 3, 4, 5, 6, 7, 8, 9, and 0, and a second, accompanying d10 with 10, 20, 30, 40, 50, 60, 70, 80, 90, and 00. A combination of 00 and 0 should still be read as a zero (0) score on a d100. A '0' on a d10 roll is alaways read as ten (10). 
 
 ### 5.5. Rules for Rolling the Dice
+There are three (3) rules for rolling dice in **Tears In Rain**. These rules help eliminate confusion and keep the game moving along as needed.
+1. All dice rolls should occur in full view of the referee. If the referee doesn’t see it, it didn’t happen. Those players who fail to follow this rule can be penalized in-game or even censored in-session at the REF’s discretion.
+2. The dice should not be rolled for everything happening in-game. The dice rolling should follow roleplaying and problem-solving. The dice should be used to complicate things. The dice should be used to add tension and chance to the game, especially during incredibly chancy situations where failure is very real and possible. In other words, dice rolls should be meaningful to everyone involved.
+3. Dice rolls are not the final arbiters of success and/or failure. The referee can choose to ignore dice rolls, modify them, and/or replace them with rerolls. The dice are not in charge—that’s what the REF is for, and players also have a say here, too.
+
+---
+
+{% include footer.html %}
+
