@@ -10,6 +10,7 @@ nav_order: 5
 There are four (4) kinds of dice used in **Tears In Rain**. These dice are the standard six-sided die (d6), the ten-sided die (d10), the twenty-sided die (d20), and the hundred-sided die (d100). 
 
 ### 5.1. Rounding Rules
+In **Tears In Rain** all rounding is  dealt with as follows: If you have a decimal, no matter its size, you round down. For example, say you have 35.5 as a result, you will round down to 35, rather than rounding up. This goes for small decimals as well as large decimals: 33.999 (33), 29.1 (29), 42.5 (42), etc. 
 
 ### 5.2. Dice Notation
 Dice are referred to through their shorthand dice notations: e.g., d10 (ten-sided die) and d100 (a hundred-sided die). The following notations (i.e., shorthands) are used to reference dice in this game:
