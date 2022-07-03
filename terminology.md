@@ -30,11 +30,11 @@ To make best of this ruleset, you will want to familiarize yourselves with sever
 
 **Beliefs:** These are those elements of a character’s agency. They are religious, philosophical, and political. These beliefs will be tested as the game progresses. 
 
-**Check:** A method of deciding the result of a character’s action (other than attacking and making saving throws). Checks are based on a relevant ability, skill, etc. To make a check, discuss with your Referee (REF) what modifiers come into play, along with skills and/or attributes. From there, you will add everything together and roll a d100, looking for anything equal to or lower than the target number to succeed. 
+**Check:** A method of deciding the result of a character’s action (other than attacking and making saving throws). Checks are based on a relevant ability, skill, etc. To make a check, discuss with your Referee (REF) what modifiers come into play, along with skills and/or attributes. From there, you will add everything together and roll a 3d6, looking for anything equal to or lower than the target number to succeed. 
 
 **Culture:** This is a signpost for human activities and human existence. Culture describes our tastes, our beliefs, our languages, our historical relationships, and so much more. 
 
-**Difficulty Modifier:** This is a number added to or subtracted from the baseline target number, which is something players are trying to roll equal to or under using a d20. Ranges from -5 (or lower) to +5 (or higher), all of which is determined by the REF. 
+**Difficulty Modifier:** This is a number added to or subtracted from the baseline target number, which is something players are trying to roll equal to or under using 3d6. Ranges from -5 (or lower) to +5 (or higher), all of which is determined by the REF. 
 
 **Discord:** This is the chaos that comes from leaning on one’s luck in-game. Discord always follows good or bad fortunes. Every time a token representing Fortune is used, discord comes into the picture. 
 
