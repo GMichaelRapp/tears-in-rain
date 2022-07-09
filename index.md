@@ -8,9 +8,10 @@ nav_order: 0
 
 
 ## 0. Tears In Rain
-Amidst the planets, moons, asteroids, and comets humans now call home, humanity is changing, adapting to its new surroundings, its new conditions, and becoming infinitely more alien than its original selves. Humans are continually spreading across the galaxy just a few clicks beneath luminal speeds, colonizing new places, and leaving behind nodes for a galactic communications network, called the Sprawl. New societies and new forms of humanity, once unimagined in the Old Place, rise, fall, and rise again. While the stars may be ours now, they hold a grim reminder of the fragility of intelligent life in the universe. We’ve only managed to find the fossils, ruins, and graveyards of aliens and alien societies. This hasn’t hampered our search for new _intelligent_ life, but it certainly serves as a reminder that we may be next. In this future, new challenges and new opportunities can be found everywhere.
+New societies and new forms of humanity, once unimagined in the Old Place, rise, fall, and rise again. Humanity continually spreads across the vastness of the galaxy, limited only by slow-moving, subluminal travel. As humanity spreads out from the Old Place, new nodes of a galactic communications network are built, laying down the roots for a truly galaxy-spanning civilization. While the stars appear to be ours for the taking, these same stars hold grim reminders of the fates of advanced intelligent life in the universe: We've found only remnants of life, fossils, graveyards, ruins. This hasn't stopped our advances into the universe, nor have these grim reminders halted our search for other sophonts. But some wonder if our galactic expansion and our search for intelligent life will be nothing more than tears in rain, ephemeral moments lost forever, futile attempts to push against one's fate. 
 
-**The universe is yours for the taking . . .  Explore. Adapt. Survive. Transcend.**
+**In this future, a future full of new challenges and new opportunities, the universe is ours, for now . . . Explore. Adapt. Survive. Transcend. 
+**
 
 ---
 
